@@ -1,5 +1,5 @@
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-json-schema==0.0.5
 Flask-RESTful==0.3.7
 Flask-Script==2.0.6
